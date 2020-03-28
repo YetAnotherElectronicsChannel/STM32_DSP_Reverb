@@ -1,4 +1,4 @@
-# STM32_DSP_Reverb
+# STM32 AUDIO DSP Reverb
 
 I implemented a reverb algorithm on the STM32F407 with the help of a audio I/O board from digitalent (https://store.digilentinc.com/pmod-i2s2-stereo-audio-input-and-output/)
 
