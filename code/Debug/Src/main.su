@@ -1,0 +1,16 @@
+main.c:93:7:Do_Comb0	24	static
+main.c:102:7:Do_Comb1	24	static
+main.c:110:7:Do_Comb2	24	static
+main.c:118:7:Do_Comb3	24	static
+main.c:128:7:Do_Allpass0	24	static
+main.c:138:7:Do_Allpass1	24	static
+main.c:147:7:Do_Allpass2	24	static
+main.c:157:7:Do_Reverb	32	static
+main.c:164:5:main	8	static
+main.c:197:6:HAL_I2SEx_TxRxHalfCpltCallback	40	static
+main.c:216:6:HAL_I2SEx_TxRxCpltCallback	40	static
+main.c:235:6:SystemClock_Config	104	static
+main.c:286:13:MX_I2S2_Init	8	static
+main.c:318:13:MX_DMA_Init	16	static
+main.c:338:13:MX_GPIO_Init	56	static
+main.c:463:6:Error_Handler	4	static
